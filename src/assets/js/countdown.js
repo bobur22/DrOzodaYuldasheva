@@ -7,7 +7,7 @@
  */
 
 const TARGET_DATE_KEY = "targetDate"; // Key for storing target date in localStorage
-const DEFAULT_DAYS_FROM_NOW = 30; // Default countdown duration in days
+const DEFAULT_DAYS_FROM_NOW = 8; // Default countdown duration in days
 const COUNTDOWN_INTERVAL = 1000; // Timer update interval in milliseconds
 
 /**
